@@ -1,6 +1,7 @@
 # 🏟️ SPOCO App – Turf Booking Application (Client Project)
 
-> 📱 Built as part of a real-world client project launching on Play Store & App Store.
+> 📱 Built as part of a real-world client project.
+Google Playstore link:(https://play.google.com/store/apps/details?id=com.auribises.spoco&hl=en_IN&pli=1)
 
 ---
 
